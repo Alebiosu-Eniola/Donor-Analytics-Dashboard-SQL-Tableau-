@@ -11,7 +11,7 @@ This project analyzes donor behavior and fundraising performance for a charity o
 • 	Trend Analysis: Tracked donation volume over time to identify seasonal or campaign-driven spikes.
 • 	Interactive Tableau Dashboard: Visualized insights with filters and drill-down capabilities.
   SQL Highlights
-• 	Used , , , , , and  statements to extract meaningful patterns.
+• 	Used JOIN, GROUP BY, ORDER BY, SUM(), COUNT(), and CASE statements to extract meaningful patterns.
 • 	Created custom views and summary tables to support Tableau integration.
 • 	Filtered and transformed raw data to prepare for visualization.
   Outcome
