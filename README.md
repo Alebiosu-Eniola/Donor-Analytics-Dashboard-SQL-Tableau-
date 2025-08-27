@@ -22,3 +22,6 @@ https://github.com/Alebiosu-Eniola/Donor-Analytics-Dashboard-SQL-Tableau-/blob/m
 https://github.com/Alebiosu-Eniola/Donor-Analytics-Dashboard-SQL-Tableau-/blob/main/2.6-EFO_Donor_Data.sql
 HERE IS LINK TO MY QUERY SRIPT INTERACTING WITH THE DATABASE IN GETTING KEY FEATURES
 https://github.com/Alebiosu-Eniola/Donor-Analytics-Dashboard-SQL-Tableau-/blob/main/donation%20and%20dono%20query.sql
+Below is link to a PDF file showing the visualisation using tableau public the donation trends and present findings 
+It also gives recommendation strategies to improve donor retention.
+https://github.com/Alebiosu-Eniola/Donor-Analytics-Dashboard-SQL-Tableau-/blob/main/Copy%20of%20Data%20Analyst%202%20Template%20(2).pdf
