@@ -17,3 +17,5 @@ This project analyzes donor behavior and fundraising performance for a charity o
   Outcome
 • 	Delivered strategic recommendations to improve donor retention and increase donation volume.
 • 	Enabled the charity team to better understand donor behavior and optimize fundraising campaigns.
+HERE IS THE LINK TO THE DATABASE SCRIPT
+https://github.com/Alebiosu-Eniola/Donor-Analytics-Dashboard-SQL-Tableau-/blob/main/2.4-EFO_Donation_Data.sql
