@@ -19,3 +19,4 @@ This project analyzes donor behavior and fundraising performance for a charity o
 • 	Enabled the charity team to better understand donor behavior and optimize fundraising campaigns.
 HERE IS THE LINK TO THE DATABASE SCRIPT
 https://github.com/Alebiosu-Eniola/Donor-Analytics-Dashboard-SQL-Tableau-/blob/main/2.4-EFO_Donation_Data.sql
+https://github.com/Alebiosu-Eniola/Donor-Analytics-Dashboard-SQL-Tableau-/blob/main/2.6-EFO_Donor_Data.sql
